@@ -1,0 +1,123 @@
+Files to process: 12
+Duration rules: keep 1 to 1440 minutes
+202510-divvy-tripdata.csv: rows in = 646,039
+  unparseable timestamps dropped: 0
+  negative ride length dropped: 0
+  under 1 minute dropped: 17,016
+  over 1440 minutes dropped: 599
+  duplicate ride_id dropped: 0
+  null start station names kept: 134,414
+  null end station names kept: 140,117
+  member_casual values found: ['casual', 'member']
+  rows out = 628,424
+202511-divvy-tripdata.csv: rows in = 356,628
+  unparseable timestamps dropped: 0
+  negative ride length dropped: 29
+  under 1 minute dropped: 9,520
+  over 1440 minutes dropped: 337
+  duplicate ride_id dropped: 0
+  null start station names kept: 70,156
+  null end station names kept: 74,245
+  member_casual values found: ['casual', 'member']
+  rows out = 346,742
+202512-divvy-tripdata.csv: rows in = 140,534
+  unparseable timestamps dropped: 0
+  negative ride length dropped: 0
+  under 1 minute dropped: 3,961
+  over 1440 minutes dropped: 125
+  duplicate ride_id dropped: 0
+  null start station names kept: 24,674
+  null end station names kept: 27,135
+  member_casual values found: ['casual', 'member']
+  rows out = 136,448
+202601-divvy-tripdata.csv: rows in = 137,787
+  unparseable timestamps dropped: 0
+  negative ride length dropped: 0
+  under 1 minute dropped: 3,846
+  over 1440 minutes dropped: 191
+  duplicate ride_id dropped: 0
+  null start station names kept: 22,242
+  null end station names kept: 24,635
+  member_casual values found: ['casual', 'member']
+  rows out = 133,750
+202602-divvy-tripdata.csv: rows in = 201,450
+  unparseable timestamps dropped: 0
+  negative ride length dropped: 0
+  under 1 minute dropped: 4,022
+  over 1440 minutes dropped: 117
+  duplicate ride_id dropped: 0
+  null start station names kept: 30,155
+  null end station names kept: 32,289
+  member_casual values found: ['casual', 'member']
+  rows out = 197,311
+202603-divvy-tripdata.csv: rows in = 317,037
+  unparseable timestamps dropped: 0
+  negative ride length dropped: 0
+  under 1 minute dropped: 8,286
+  over 1440 minutes dropped: 266
+  duplicate ride_id dropped: 0
+  null start station names kept: 53,460
+  null end station names kept: 57,298
+  member_casual values found: ['casual', 'member']
+  rows out = 308,485
+202604-divvy-tripdata.csv: rows in = 448,252
+  unparseable timestamps dropped: 0
+  negative ride length dropped: 0
+  under 1 minute dropped: 12,420
+  over 1440 minutes dropped: 354
+  duplicate ride_id dropped: 0
+  null start station names kept: 84,667
+  null end station names kept: 85,394
+  member_casual values found: ['casual', 'member']
+  rows out = 435,478
+202605-divvy-tripdata.csv: rows in = 653,704
+  unparseable timestamps dropped: 0
+  negative ride length dropped: 0
+  under 1 minute dropped: 17,769
+  over 1440 minutes dropped: 573
+  duplicate ride_id dropped: 28
+  null start station names kept: 127,659
+  null end station names kept: 129,906
+  member_casual values found: ['casual', 'member']
+  rows out = 635,334
+202606-divvy-tripdata.csv: rows in = 762,550
+  unparseable timestamps dropped: 0
+  negative ride length dropped: 0
+  under 1 minute dropped: 20,516
+  over 1440 minutes dropped: 679
+  duplicate ride_id dropped: 0
+  null start station names kept: 147,532
+  null end station names kept: 150,089
+  member_casual values found: ['casual', 'member']
+  rows out = 741,355
+202607-divvy-tripdata.csv: rows in = 869,051
+  unparseable timestamps dropped: 0
+  negative ride length dropped: 0
+  under 1 minute dropped: 22,315
+  over 1440 minutes dropped: 780
+  duplicate ride_id dropped: 0
+  null start station names kept: 177,095
+  null end station names kept: 181,293
+  member_casual values found: ['casual', 'member']
+  rows out = 845,956
+202608-divvy-tripdata.csv: rows in = 868,191
+  unparseable timestamps dropped: 0
+  negative ride length dropped: 0
+  under 1 minute dropped: 20,911
+  over 1440 minutes dropped: 670
+  duplicate ride_id dropped: 0
+  null start station names kept: 178,730
+  null end station names kept: 184,704
+  member_casual values found: ['casual', 'member']
+  rows out = 846,610
+202609-divvy-tripdata.csv: rows in = 770,562
+  unparseable timestamps dropped: 0
+  negative ride length dropped: 0
+  under 1 minute dropped: 18,610
+  over 1440 minutes dropped: 633
+  duplicate ride_id dropped: 0
+  null start station names kept: 151,122
+  null end station names kept: 158,386
+  member_casual values found: ['casual', 'member']
+  rows out = 751,319
+TOTAL rows out across all files: 6,007,212
